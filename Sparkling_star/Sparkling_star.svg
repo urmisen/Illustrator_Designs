@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 956.8 589.2" style="enable-background:new 0 0 956.8 589.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_84_);}
+	.st1{fill:url(#XMLID_85_);}
+	.st2{fill:url(#XMLID_86_);}
+	.st3{fill:url(#XMLID_87_);}
+</style>
+<linearGradient id="XMLID_84_" gradientUnits="userSpaceOnUse" x1="173.734" y1="600.4979" x2="828.9317" y2="-57.4073">
+	<stop  offset="0" style="stop-color:#1C1C1C"/>
+	<stop  offset="1" style="stop-color:#121212"/>
+</linearGradient>
+<rect id="XMLID_79_" x="0" y="0" class="st0" width="956.8" height="589.2"/>
+<radialGradient id="XMLID_85_" cx="478.3784" cy="294.5946" r="199.5161" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<polygon id="XMLID_80_" class="st1" points="571.6,423.6 465.8,301 478.4,414.2 454.7,301.4 390.5,479.1 444.8,296.2 294.6,414.2 
+	438.9,286.8 264.9,358.8 438.4,275.6 286.5,229.1 443.6,265.8 329.7,134.5 453.1,259.8 441.9,110.1 464.2,259.4 505.4,177.7 
+	474.1,264.6 606.8,187.2 480.1,274 691.9,291.2 480.5,285.2 621.6,380.4 475.3,295.1 "/>
+<linearGradient id="XMLID_86_" gradientUnits="userSpaceOnUse" x1="254.054" y1="308.7838" x2="678.3784" y2="308.7838">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<polygon id="XMLID_81_" class="st2" points="654.1,433.8 457.2,298.8 320.3,531.1 439.1,281.6 254.1,178.4 456.3,263.4 678.4,86.5 
+	474.4,280.6 "/>
+<radialGradient id="XMLID_87_" cx="435.2518" cy="264.9529" r="44.9439" gradientTransform="matrix(2.8676 0 0 2.7692 -788.8552 -450.8691)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.2284" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.3398" style="stop-color:#FFFFFF;stop-opacity:0.8557"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<ellipse id="XMLID_82_" class="st3" cx="459.3" cy="282.8" rx="131.8" ry="121.6"/>
+</svg>

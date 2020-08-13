@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 948.6 558.1" style="enable-background:new 0 0 948.6 558.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#XMLID_72_);}
+	.st1{fill:url(#XMLID_73_);}
+	.st2{fill:url(#XMLID_74_);}
+	.st3{fill:url(#XMLID_75_);}
+	.st4{opacity:0.35;fill:url(#XMLID_76_);}
+</style>
+<linearGradient id="XMLID_72_" gradientUnits="userSpaceOnUse" x1="176.2841" y1="581.6198" x2="799.2571" y2="-50.8126">
+	<stop  offset="0" style="stop-color:#A8A8A8"/>
+	<stop  offset="1" style="stop-color:#BDBDBD"/>
+</linearGradient>
+<rect id="XMLID_66_" class="st0" width="948.6" height="558.1"/>
+<radialGradient id="XMLID_73_" cx="434.0403" cy="780.9041" r="178.2451" gradientTransform="matrix(1.8244 -0.7633 0.2284 0.546 -410.1383 296.9827)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="6.419539e-003" style="stop-color:#010101;stop-opacity:0.9936"/>
+	<stop  offset="8.916211e-002" style="stop-color:#111011;stop-opacity:0.9108"/>
+	<stop  offset="0.1781" style="stop-color:#151314;stop-opacity:0.8219"/>
+	<stop  offset="0.2723" style="stop-color:#131112;stop-opacity:0.7277"/>
+	<stop  offset="0.3731" style="stop-color:#0F0D0D;stop-opacity:0.6269"/>
+	<stop  offset="0.4832" style="stop-color:#090708;stop-opacity:0.5168"/>
+	<stop  offset="0.6071" style="stop-color:#040303;stop-opacity:0.3929"/>
+	<stop  offset="0.7564" style="stop-color:#010101;stop-opacity:0.2436"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<path id="XMLID_69_" class="st1" d="M855.5,270.1c20.4,48.7-96.1,143.8-260.2,212.5s-313.6,84.8-334,36.1
+	C241,470,357.5,374.9,521.6,306.2S835.2,221.4,855.5,270.1z"/>
+<radialGradient id="XMLID_74_" cx="364.6326" cy="837.9805" r="178.2451" gradientTransform="matrix(1.5519 -5.844377e-003 1.890807e-003 0.5021 -100.6922 -0.9158)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="6.419539e-003" style="stop-color:#010101;stop-opacity:0.9936"/>
+	<stop  offset="8.916211e-002" style="stop-color:#111011;stop-opacity:0.9108"/>
+	<stop  offset="0.1781" style="stop-color:#151314;stop-opacity:0.8219"/>
+	<stop  offset="0.2723" style="stop-color:#131112;stop-opacity:0.7277"/>
+	<stop  offset="0.3731" style="stop-color:#0F0D0D;stop-opacity:0.6269"/>
+	<stop  offset="0.4832" style="stop-color:#090708;stop-opacity:0.5168"/>
+	<stop  offset="0.6071" style="stop-color:#040303;stop-opacity:0.3929"/>
+	<stop  offset="0.7564" style="stop-color:#010101;stop-opacity:0.2436"/>
+	<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+</radialGradient>
+<path id="XMLID_70_" class="st2" d="M717.6,418c0.2,44.8-112.8,81.5-252.4,82s-252.8-35.3-253-80.1c-0.2-44.8,112.8-81.5,252.4-82
+	S717.4,373.2,717.6,418z"/>
+<radialGradient id="XMLID_75_" cx="424.3243" cy="185.8108" r="272.9738" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#D4D4D4"/>
+	<stop  offset="1" style="stop-color:#4D4D4D"/>
+</radialGradient>
+<ellipse id="XMLID_67_" class="st3" cx="474.3" cy="261.5" rx="178.4" ry="170.9"/>
+<radialGradient id="XMLID_76_" cx="474.3243" cy="256.0811" r="191.9502" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+	<stop  offset="0.3325" style="stop-color:#010001;stop-opacity:0.3325"/>
+	<stop  offset="0.4798" style="stop-color:#030203;stop-opacity:0.4798"/>
+	<stop  offset="0.5904" style="stop-color:#080606;stop-opacity:0.5904"/>
+	<stop  offset="0.6829" style="stop-color:#0E0B0C;stop-opacity:0.6829"/>
+	<stop  offset="0.764" style="stop-color:#121010;stop-opacity:0.764"/>
+	<stop  offset="0.837" style="stop-color:#151313;stop-opacity:0.837"/>
+	<stop  offset="0.9041" style="stop-color:#141313;stop-opacity:0.9041"/>
+	<stop  offset="0.9647" style="stop-color:#0C0B0C;stop-opacity:0.9647"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</radialGradient>
+<ellipse id="XMLID_68_" class="st4" cx="473" cy="258.8" rx="178.4" ry="170.9"/>
+</svg>
